@@ -1837,3 +1837,37 @@
 2025-12-25 02:32:36,564 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-25 02:32:36.564541
 2025-12-25 02:40:17,772 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
 2025-12-25 02:40:18,313 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2025-12-25 12:13:19,016 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2025-12-25 12:13:19,018 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-25 12:13:19,018 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-25 12:13:19,999 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-25 12:13:21,382 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-12-25 12:13:21,383 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\user\.config\yasb
+2025-12-25 12:13:21,384 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-01058058-e15d-11f0-a6cd-cccaa00012cc
+2025-12-25 12:13:21,450 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2025-12-25 12:13:21,450 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-25 12:13:21,452 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-25 12:13:21,861 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-25 12:13:21.861858
+2025-12-25 12:13:26,601 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-01058058-e15d-11f0-a6cd-cccaa00012cc
+2025-12-25 12:19:10,612 [WARNING] [Dummy-5] [root/event_listener.py:82]: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-12-25 12:19:10,612 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2025-12-25 12:19:13,614 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-01058058-e15d-11f0-a6cd-cccaa00012cc
+2025-12-25 12:19:18,751 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-01058058-e15d-11f0-a6cd-cccaa00012cc
+2025-12-25 12:23:20,323 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-25 12:23:20.323584
+2025-12-25 12:33:20,247 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-25 12:33:20.247618
+2025-12-25 12:43:20,196 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-25 12:43:20.196884
+2025-12-25 12:53:20,187 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-25 12:53:20.187819
+2025-12-25 13:03:20,233 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-25 13:03:20.232980
+2025-12-25 13:13:20,182 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-25 13:13:20.182848
+2025-12-25 13:23:20,184 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-25 13:23:20.184103
+2025-12-25 13:33:20,211 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-25 13:33:20.211376
+2025-12-25 13:43:20,189 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-25 13:43:20.189522
+2025-12-25 13:53:20,217 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-25 13:53:20.217064
+2025-12-25 14:03:20,256 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-25 14:03:20.256668
+2025-12-25 14:13:20,231 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-25 14:13:20.231860
+2025-12-25 14:22:30,869 [WARNING] [Dummy-5] [root/event_listener.py:82]: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-12-25 14:22:30,869 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2025-12-25 14:22:33,871 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-01058058-e15d-11f0-a6cd-cccaa00012cc
+2025-12-25 14:22:33,935 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-01058058-e15d-11f0-a6cd-cccaa00012cc
+2025-12-25 14:23:20,252 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-25 14:23:20.252514
+2025-12-25 14:33:20,255 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-25 14:33:20.255170
